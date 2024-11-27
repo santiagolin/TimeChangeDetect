@@ -55,7 +55,7 @@ While Windows Event Log (specifically Event ID 4616) is the primary method for d
 Simply run the executable as Administrator:
 
 ```bash
-TimeDetect.exe
+TimeChangeDetect.exe
 ```
 
 The program will:
